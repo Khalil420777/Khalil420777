@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Bouarrouj</h1>
 <h3 align="center">A passionate Full Stack developer from Tunisia</h3>
-<img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952jqujr1th0mis7hk8h9pt7uo2uo46cynuk0j8utn6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right" width="400">
+<img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952jqujr1th0mis7hk8h9pt7uo2uo46cynuk0j8utn6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalil420777&label=Profile%20views&color=0e75b6&style=flat" alt="khalil420777" /> </p>
 
